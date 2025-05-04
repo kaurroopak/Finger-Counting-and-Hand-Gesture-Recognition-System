@@ -1,5 +1,5 @@
 # ✋ Hand Gesture + Finger Counting Recognition System  
-This project combines real-time hand gesture recognition and finger counting using a webcam, powered by MediaPipe, OpenCV, and a `scikit-learn` gesture classifier (trained on HOG features). It's built in Python and works efficiently for both tracking finger positions and identifying custom hand gestures.
+This project combines real-time hand gesture recognition and finger counting using a webcam, powered by **MediaPipe**, **OpenCV**, and a **scikit-learn** gesture classifier (trained on HOG features). It's built in Python and works efficiently for both tracking finger positions and identifying custom hand gestures.
 
 ✅ The gesture recognition model achieves **~98% accuracy** using a **RandomForestClassifier** from the `scikit-learn` library, trained on HOG (Histogram of Oriented Gradients) features.
 
@@ -26,7 +26,7 @@ Also, make sure you have:
 
 ## 🚀 How to Run
 
-    python GestureAndFingerCounting.py
+     python GestureAndFingerCounting.py
 
 Press q to exit the webcam window.
 
