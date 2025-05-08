@@ -7,7 +7,7 @@ This project combines real-time hand gesture recognition and finger counting usi
 ✋ **Accurate Finger Counting** – Detects how many fingers are held up in real-time.  
 🤙 **Gesture Recognition** – Recognizes custom hand gestures like `thumbs_up`, `call_me`, `fingers_crossed`, etc.  
 🎥 **Live Webcam Input** – Processes video input from your webcam.  
-🧠 **Machine Learning Classifier** – Uses HOG + PCA + **Random Forest (scikit-learn)** for gesture recognition.  
+🧠 **Machine Learning Classifier** – Uses HOG +  **Random Forest (scikit-learn)** for gesture recognition.  
 🎯 **Clean UI Overlay** – Neat, non-blocking overlay of finger count and gesture name.
 
 
